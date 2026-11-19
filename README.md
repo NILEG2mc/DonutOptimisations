@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍩 DonutOptimisations
+#  DonutOptimisations
 
 **A Minecraft Fabric Mod that boosts your FPS on DonutSMP by reducing unnecessary rendering.**
 
@@ -12,17 +12,17 @@
 
 ---
 
-## ✨ What is DonutOptimisations?
+##  What is DonutOptimisations?
 
 **DonutOptimisations** is a lightweight, client-side **Fabric** mod built specifically for the **DonutSMP** server.
 
 It optimizes your Minecraft experience by **reducing unnecessary rendered elements**, which directly improves your **FPS** and makes gameplay smoother — especially in busy areas, fights, and large builds.
 
-> 🔒 **Note:** The source code for this mod is **not public**. This is a private project.
+## **Note:** The source code for this mod is **not public**. This is a private project.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **FPS Boost** – Reduces rendered content to improve frame rates.
 - **DonutSMP Optimized** – Tuned specifically for the DonutSMP server environment. 
@@ -30,6 +30,8 @@ It optimizes your Minecraft experience by **reducing unnecessary rendered elemen
 - **Lightweight** – Minimal impact on memory and performance.
 
 ---
+# DonutOptimisations
+A Minecraft Fabric Mod that Improves your FPS in DonutSMP, by reducing rendered things
 
 ##  Requirements
 
