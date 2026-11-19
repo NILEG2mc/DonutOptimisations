@@ -4,7 +4,7 @@
 
 **A Minecraft Fabric Mod that boosts your FPS on DonutSMP by reducing unnecessary rendering.**
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21-orange?logo=minecraft)]()
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-orange?logo=minecraft)]()
 [![Loader](https://img.shields.io/badge/Loader-Fabric-blue)]()
 [![Client-Side](https://img.shields.io/badge/Type-Client--Side-green)]()
 
