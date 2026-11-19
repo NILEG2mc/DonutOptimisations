@@ -37,7 +37,7 @@ A Minecraft Fabric Mod that Improves your FPS in DonutSMP, by reducing rendered 
 
 | Requirement | Version |
 |-------------|---------|
-| Minecraft | 1.21 |
+| Minecraft | 1.21.11 |
 | Mod Loader | Fabric |
 | Fabric API | Latest |
 | Server | DonutSMP |
